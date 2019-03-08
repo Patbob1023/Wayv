@@ -1,5 +1,4 @@
-# WAYV
-![Platform](https://img.shields.io/badge/platform-Android%205.0%2B-green.svg)
+# WAYV ![Platform](https://img.shields.io/badge/platform-Android%205.0%2B-green.svg)
 WAYV is a novel app that seeks to replace traditional ticketing solutions such as physical passes and cards by using sound waves to authenticate users. Utilizing the Chirp API, WAYV allows users to easily present their credentials to a receiving device by transmitting a unique "sonic barcode." Consisting of an Android app, a database (Google Firebase,) and Wix website, WAYV is not just an app; it is a sophisticated system of components which work together to create a seamless and magical experience for its users.
 
 ## Background
